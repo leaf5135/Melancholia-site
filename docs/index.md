@@ -1,9 +1,3 @@
-[//]: # (---)
-
-[//]: # (layout: default)
-
-[//]: # (---)
-
 ## Overview
 
 **Melancholia** is developed by the University of San Francisco's Game Design Club during the school years 2023 and 2024.
@@ -23,5 +17,5 @@ Melancholia is built on the **Unity engine**. The development team consists of t
 This website will expand in the future to include information on upcoming projects and other initiatives from the Game Design Club.
 
 ## Navigation
-
-TODO
+- ### [Home](./index.md)
+- ### [Gallery](./gallery.md)
