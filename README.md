@@ -1,0 +1,1 @@
+The official website of University of San Francisco's Game Design Club
