@@ -1,0 +1,9 @@
+remote_theme: pages-themes/midnight@v0.2.0
+plugins:
+  - jekyll-remote-theme
+
+title: Melancholia
+description: A Game Design Club project
+
+github:
+  repository_url: https://github.com/andrewdiep1/gdc-web
