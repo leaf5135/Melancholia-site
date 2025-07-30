@@ -3,7 +3,7 @@ plugins:
   - jekyll-remote-theme
 
 title: Melancholia
-description: A Game Design Club project
+description: A rhythm game
 
 github:
   repository_url: https://github.com/andrewdiep1/Melancholia

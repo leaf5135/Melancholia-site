@@ -1,21 +1,28 @@
 ## Navigation
-- ### [Home](./index.md)
-- ### [Gallery](./gallery.md)
+- [Home](./index.md)
+- [How to Play](./howtoplay.md)
+- [Story](./story.md)
+- [Gallery](./gallery.md)
+- [Credits](./credits.md)
+
+---
 
 ## Overview
 
-**Melancholia** is developed by the University of San Francisco's Game Design Club during the school years 2023 and 2024.
+**Melancholia** is a rhythm game developed by the Game Design Club at the University of San Francisco. Built in **Unity** using **C#**, the game challenges players to synchronize button presses with classical piano tracks.
 
-Melancholia is built on the **Unity engine**. The development team consists of two primary groups:
+---
 
-### Programming and Developer Team
-- Focuses on core functionality using Unity.
-- Responsible for coding, arts integration, and overall game design.
+## Project Vision
 
-### Arts and Design Team
-- Concentrates on visual elements and sprites.
-- Creates backgrounds for levels and designs game sprites.
+We believe music is one of the most defining elements of a game—it can elevate or undermine the entire experience. With *Melancholia*, our goal was to create a rhythm game where the music isn’t just background—it's the core.
 
-## Future Plans
+Melancholia is loosely inspired by games like Dance Dance Revolution, osu!, and Friday Night Funkin'. The gameplay is designed to be simple and intuitive, requiring minimal thinking so players can focus on the music and visuals. We want the experience to be calm, meditative, and emotionally resonant—something that can be enjoyed without pressure.
 
-This website will expand in the future to include information on upcoming projects and other initiatives from the Game Design Club.
+---
+
+## Events & Playtesting
+
+*Melancholia* was showcased at the **2024 Anime Culture & Video Games Club (ACV) Halloween Scavenger Hunt** at the University of San Francisco. Over 30 participants played the game, where players must beat a level to earn a scavenger hunt clue.
+
+This event also served as a valuable playtest. One major piece of feedback we received was to fine-tune the timing window for hitting notes—something we’ve since started improving to enhance responsiveness and flow.
