@@ -1,4 +1,4 @@
-## - [Home](./index.md)
+- ## [Home](./index.md)
 - [How to Play](./howtoplay.md)
 - [Story](./story.md)
 - [Gallery](./gallery.md)
