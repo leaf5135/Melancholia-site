@@ -60,3 +60,13 @@ Your goal is to hit the notes **just before they reach Chrono**.
 
 ---
 
+## Hits
+
+There are three types of note hits:
+
+- **Accurate Hit**: Perfect timing. Heals a small amount of HP.
+- **Inaccurate Hit**: Slightly too early. Small HP loss.
+- **Miss**: Too early or too late. Significant HP loss.
+
+---
+
