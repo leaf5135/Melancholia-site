@@ -16,6 +16,8 @@ You can also use keyboard shortcuts:
 - **Spacebar** → Play the selected level
 - **Esc** → Return to the home screen
 
+<img src="art/screenshots/songselect.png" alt="Song select screen" width="800"/>
+
 ---
 
 Once you're in a level, you can pause at any time by pressing the **Spacebar**. Use this to:
@@ -44,6 +46,8 @@ To play:
 
 Your goal is to hit the notes **just before** they reach the magenta line.
 
+<img src="art/screenshots/conductor.png" alt="Conductor stance" width="800"/>
+
 ---
 
 ### Performer Stance
@@ -57,6 +61,8 @@ To play:
 - **D** → Notes from the east
 
 Your goal is to hit the notes **just before they reach Chrono**.
+
+<img src="art/screenshots/performer.png" alt="Performer stance" width="800"/>
 
 ---
 
