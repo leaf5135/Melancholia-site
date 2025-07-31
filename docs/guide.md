@@ -70,3 +70,16 @@ There are three types of note hits:
 
 ---
 
+## Combo & Score
+
+- **Combo** increases with each **accurate hit** in a row.
+  - Inaccurate hits do **not** break your combo but don’t continue it either.
+  - Misses **reset** your combo.
+
+- **Score** is based solely on the number of accurate hits.
+  - Inaccurate hits and misses do **not** affect your score.
+
+At the end of each game, your **max combo** and **scoere** will be displayed.
+
+---
+
