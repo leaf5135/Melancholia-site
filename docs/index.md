@@ -1,5 +1,5 @@
-- ## [Home](./index.md)
-- [How to Play](./howtoplay.md)
+- ### [Home](./index.md)
+- [How to Play](./guide.md)
 - [Story](./story.md)
 - [Gallery](./gallery.md)
 - [Credits](./credits.md)
@@ -10,7 +10,7 @@
 
 **Melancholia** is a rhythm game developed by the Game Design Club at the University of San Francisco. Built in **Unity** using **C#**, the game challenges players to synchronize button presses with classical piano tracks.
 
-<img src="art/screenshots/home.png" alt="Melancholia home screen" width="500"/>
+<img src="art/screenshots/home.png" alt="Melancholia home screen" width="800"/>
 
 ---
 
