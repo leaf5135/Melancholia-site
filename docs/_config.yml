@@ -1,9 +1,9 @@
 remote_theme: pages-themes/midnight
+
 plugins:
   - jekyll-remote-theme
 
 title: Melancholia
-description: A rhythm game
 
 github:
   repository_url: https://github.com/andrewdiep1/Melancholia
