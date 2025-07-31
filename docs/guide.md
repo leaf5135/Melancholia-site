@@ -1,7 +1,7 @@
 - [Home](./index.md)
 - ### [How to Play](./guide.md)
 - [Story](./story.md)
-- [Gallery](./gallery.md)
+- [Art Gallery](./gallery.md)
 - [Credits](./credits.md)
 
 ---
