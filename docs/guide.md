@@ -52,13 +52,13 @@ Your goal is to hit the notes **just before** they reach the magenta line.
 
 ### Performer Stance
 
-Here, Chrono stands at the center of the stage. Notes fly toward him from four directions: north, south, west, and east.
+Here, Chrono stands at the center of the stage. Notes fly toward him from four directions: up, down, left, right.
 
 To play:
-- **W** → Notes from the north
-- **S** → Notes from the south
-- **A** → Notes from the west
-- **D** → Notes from the east
+- **W** → Notes from the top
+- **S** → Notes from the bottom
+- **A** → Notes from the left
+- **D** → Notes from the right
 
 Your goal is to hit the notes **just before they reach Chrono**.
 
