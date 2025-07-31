@@ -28,3 +28,35 @@ Raw versions of the background images are available in the [Gallery](./gallery.m
 
 ---
 
+## Stances
+
+When a level starts, you'll see notes moving in specific directions. The movement depends on the **stance** you choose.
+
+### Conductor Stance
+
+In this stance, **Chrono** (the protagonist) acts as a conductor. Notes fall from the top in four vertical columns.
+
+To play:
+- **Z** → Leftmost column
+- **X** → Second column
+- **N** → Third column
+- **M** → Rightmost column
+
+Your goal is to hit the notes **just before** they reach the magenta line.
+
+---
+
+### Performer Stance
+
+Here, Chrono stands at the center of the stage. Notes fly toward him from four directions: north, south, west, and east.
+
+To play:
+- **W** → Notes from the north
+- **S** → Notes from the south
+- **A** → Notes from the west
+- **D** → Notes from the east
+
+Your goal is to hit the notes **just before they reach Chrono**.
+
+---
+
