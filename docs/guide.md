@@ -83,3 +83,9 @@ At the end of each game, your **max combo** and **scoere** will be displayed.
 
 ---
 
+## Chaining Effect
+
+When you hit a note, you don’t just destroy a single note. You destroy a **small area of notes** that are close together in time. This creates a **chaining effect**, wiping out clusters of nearby notes in one go.
+
+---
+
