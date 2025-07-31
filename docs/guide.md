@@ -89,3 +89,13 @@ When you hit a note, you don’t just destroy a single note. You destroy a **sma
 
 ---
 
+## Shield Ability
+
+As you land **accurate hits**, your **Shield Meter** will charge.
+
+- When full, press **P** to activate the shield.
+- The shield lasts a few seconds and makes you **invulnerable**:
+  - Notes won’t damage you
+  - Misses won’t register
+
+The shield will come in handy as a **last resort**.
