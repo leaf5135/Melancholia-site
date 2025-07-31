@@ -11,6 +11,8 @@
 
 **Melancholia** is a rhythm game developed by the Game Design Club at the University of San Francisco. Built in **Unity** using **C#**, the game challenges players to synchronize button presses with classical piano tracks.
 
+<img src="art/screenshots/home.png" alt="Melancholia home screen" width="500"/>
+
 ---
 
 ## Project Vision
@@ -23,6 +25,6 @@ Melancholia is loosely inspired by games like Dance Dance Revolution, osu!, and 
 
 ## Events & Playtesting
 
-*Melancholia* was showcased at the **2024 Anime Culture & Video Games Club (ACV) Halloween Scavenger Hunt** at the University of San Francisco. Over 30 participants played the game, where players must beat a level to earn a scavenger hunt clue.
+Melancholia was showcased at the **2024 Anime Culture & Video Games Club (ACV) Halloween Scavenger Hunt** at the University of San Francisco. Over 30 participants played the game, where players must beat a level to earn a scavenger hunt clue.
 
 This event also served as a valuable playtest. One major piece of feedback we received was to fine-tune the timing window for hitting notes—something we’ve since started improving to enhance responsiveness and flow.
