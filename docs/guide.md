@@ -1,7 +1,7 @@
 - [Home](./index.md)
-- ### [How to Play](./guide.md)
+- ### [Guide](./guide.md)
 - [Story](./story.md)
-- [Art Gallery](./gallery.md)
+- [Gallery](./gallery.md)
 - [Credits](./credits.md)
 
 ---
@@ -16,7 +16,7 @@ You can also use keyboard shortcuts:
 - **Spacebar** → Play the selected level
 - **Esc** → Return to the home screen
 
-<img src="art/screenshots/songselect.png" alt="Song select screen" width="800"/>
+<img src="artwork/songselect.png" alt="Song select screen" width="800"/>
 
 ---
 
@@ -46,7 +46,7 @@ To play:
 
 Your goal is to hit the notes **just before** they reach the magenta line.
 
-<img src="art/screenshots/conductor.png" alt="Conductor stance" width="800"/>
+<img src="artwork/conductor.png" alt="Conductor stance" width="800"/>
 
 ---
 
@@ -62,7 +62,7 @@ To play:
 
 Your goal is to hit the notes **just before they reach Chrono**.
 
-<img src="art/screenshots/performer.png" alt="Performer stance" width="800"/>
+<img src="artwork/performer.png" alt="Performer stance" width="800"/>
 
 ---
 
