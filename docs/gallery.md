@@ -1,6 +1,5 @@
 - [Home](./index.md)
 - [Guide](./guide.md)
-- [Story](./story.md)
 - ### [Gallery](./gallery.md)
 - [Credits](./credits.md)
 
