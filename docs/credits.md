@@ -9,6 +9,11 @@
 
 **Melancholia** was created through the collaborative efforts of the Game Design Club at the University of San Francisco. We’re proud to recognize the contributions of every team member involved in bringing this project together.
 
+<figure style="text-align: center; margin-bottom: 40px;">
+  <img src="artwork/brainstorm.png" alt="Album cover" width="800"/>
+  <figcaption>Brainstorming session on the whiteboard</figcaption>
+</figure>
+
 ---
 
 ### Programming & Game Design
