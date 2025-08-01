@@ -73,7 +73,7 @@
 
 <figure style="text-align: center; margin-bottom: 30px;">
   <img src="artwork/chrono.gif" alt="Chrono" width="300"/>
-  <figcaption>Chrono (Idle)</figcaption>
+  <figcaption>Chrono</figcaption>
 </figure>
 
 <figure style="text-align: center; margin-bottom: 30px;">
