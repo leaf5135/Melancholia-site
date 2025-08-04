@@ -9,15 +9,9 @@
 
 **Melancholia** is a rhythm game developed by the Game Design Club at the University of San Francisco. Built in **Unity** using **C#**, the game challenges players to synchronize button presses with classical piano tracks.
 
-<img src="artwork/home.png" alt="Home screen" width="800"/>
-
----
-
-## Play the Game
-
-You can play **Melancholia** now on itch.io:
-
 - [**Play on Itch.io**](https://leaf5135.itch.io/melancholia)
+
+<img src="artwork/home.png" alt="Home screen" width="800"/>
 
 ---
 
