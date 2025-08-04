@@ -33,3 +33,11 @@ We used the following resources for sound effects and music:
 
 - [Zapsplat](https://www.zapsplat.com/)
 - [MuseScore](https://musescore.org/en)
+
+---
+
+### License
+
+All game code and visual assets are © 2025 Game Design Club, University of San Francisco.
+These assets are licensed **for personal and educational use only**.
+Commercial use or redistribution requires explicit permission from the copyright holders.
