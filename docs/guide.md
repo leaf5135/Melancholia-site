@@ -31,7 +31,7 @@ Raw versions of the background images are available in the [Gallery](./gallery.m
 
 ## Stances
 
-When a level starts, you'll see notes moving in specific directions. The movement depends on the **stance** you choose.
+When a level starts, you'll see notes moving in specific directions. The movement depends on your **stance**.
 
 ### Conductor Stance
 
@@ -84,7 +84,7 @@ There are three types of note hits:
 - **Score** is based solely on the number of accurate hits.
   - Inaccurate hits and misses do **not** affect your score.
 
-At the end of each game, your **max combo** and **scoere** will be displayed.
+At the end of each game, your **max combo** and **score** will be displayed.
 
 ---
 

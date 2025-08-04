@@ -17,13 +17,13 @@
 ---
 
 ### Programming & Game Design
-- *Andrew D.*
+- Andrew D.
 
 ### Visual Art & UI Design
-- *Allen Jake P.*
-- *Dorian G.*
-- *Lauren Y.*
-- *Lillian L.*
+- Jake P.
+- Dorian G.
+- Lauren Y.
+- Lillian L.
 
 ---
 

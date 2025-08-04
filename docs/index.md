@@ -13,11 +13,19 @@
 
 ---
 
+## Play the Game
+
+You can play **Melancholia** now on itch.io:
+
+- [**Play on Itch.io**](https://your-game-link.itch.io/melancholia)
+
+---
+
 ## Project Vision
 
 We believe music is one of the most defining elements of a game—it can elevate or undermine the entire experience. With *Melancholia*, our goal was to create a rhythm game where the music isn’t just background—it's the core.
 
-Melancholia is loosely inspired by games like Dance Dance Revolution, osu!, and Friday Night Funkin'. The gameplay is designed to be simple and intuitive, requiring minimal thinking so players can focus on the music and visuals. We want the experience to be calm, meditative, and emotionally resonant—something that can be enjoyed without pressure.
+Melancholia is loosely inspired by games like Dance Dance Revolution, osu!, and Friday Night Funkin'. The gameplay is designed to be simple and intuitive, requiring minimal thinking so players can focus on the music and visuals. We want the experience to be emotionally resonant—something that can be enjoyed without pressure.
 
 ---
 

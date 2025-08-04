@@ -1,1 +1,1 @@
-The official website of University of San Francisco's Game Design Club
+The website for Melancholia (a rhythm game developed by the Game Design Club at the University of San Francisco)
