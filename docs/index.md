@@ -17,7 +17,7 @@
 
 You can play **Melancholia** now on itch.io:
 
-- [**Play on Itch.io**](https://your-game-link.itch.io/melancholia)
+- [**Play on Itch.io**](https://leaf5135.itch.io/melancholia)
 
 ---
 
